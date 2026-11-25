@@ -2,20 +2,19 @@
 title: Rivermere
 description: Maps, session notes, and people from the Rivermere campaign.
 ---
+---
+title: Rivermere
+---
 
-# Regional Map
+## Regional Map
 
 ![Regional map of Rivermere](Attachments/Regional-Map.png)
 
-## Latest Session
-- 
-## Explore the region
-
-- [[Locations/Rivermere|Rivermere]]
-- [[Nicuashy|Nicuashy]]
-
-## People we’ve met
-
-- [[NPCs/Acorn Mills|Acorn Mills]]
-- [[NPCs/Hazel Mills|Hazel Mills]]
-- [[NPCs/Chief Thlayli|Chief Thlayli]]
+<div style="text-align: center;">
+  <a href="./session-notes/">Session Notes</a> ·
+  <a href="./locations/">Locations</a> ·
+  <a href="./npcs/">NPCs</a> ·
+  <a href="./quests/">Quests</a> ·
+  <a href="./items/">Items</a> ·
+  <a href="./lore/">Lore</a>
+</div>
