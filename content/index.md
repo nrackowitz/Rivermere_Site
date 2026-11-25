@@ -2,11 +2,6 @@
 title: Rivermere
 description: Maps, session notes, and people from the Rivermere campaign.
 ---
----
-title: Rivermere
----
-
-## Regional Map
 
 ![Regional map of Rivermere](Attachments/Regional-Map.png)
 
