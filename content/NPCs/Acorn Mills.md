@@ -1,4 +1,8 @@
-#NPC
+---
+draft: false
+tags:
+  - "#NPC"
+---
 
 - **Who they are:** Founder of [[Rivermere]]
 - **Where to find them:** ??

@@ -1,4 +1,8 @@
-#Item  
+---
+draft: true
+tags:
+  - Item
+---
 
 - **Type:** 
 - **Magical:** Unknown

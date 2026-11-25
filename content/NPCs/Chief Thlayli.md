@@ -1,4 +1,8 @@
-#NPC
+---
+draft: false
+tags:
+  - NPC
+---
 
 - **Who they are:** Chief of [[Rivermere]]
 - **Where to find them:** [[Rivermere]]

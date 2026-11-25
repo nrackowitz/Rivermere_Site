@@ -1,4 +1,8 @@
-#Quest
+---
+draft: true
+tags:
+  - "#Quest"
+---
 
 - **Objective:**
 - **Given by:**

@@ -1,5 +1,8 @@
-#NPC
-
+---
+draft: false
+tags:
+  - NPC
+---
 - **Who they are:** Second mayor of [[Rivermere]]
 - **Where to find them:** ??
 - **First met:** N/A

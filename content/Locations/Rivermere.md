@@ -1,4 +1,8 @@
-#Location
+---
+draft: false
+tags:
+  - "#Location"
+---
 
 - **Where it is:** Small town central to the story
 - **First visited or heard about:** Start of campaign 

@@ -1,4 +1,8 @@
-#PlayerCharacter
+---
+draft: true
+tags:
+  - "#PlayerCharacter"
+---
 
 **Played by:**  
 **First appeared:**  

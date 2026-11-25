@@ -12,7 +12,7 @@ description: Maps, session notes, and people from the Rivermere campaign.
 ## Explore the region
 
 - [[Locations/Rivermere|Rivermere]]
-- [[Locations/Nicuashy|Nicuashy]]
+- [[Nicuashy|Nicuashy]]
 
 ## People we’ve met
 

@@ -1,4 +1,8 @@
-#Session 
+---
+draft: true
+tags:
+  - "#SessionNote"
+---
 
 **Date:** {{date}}
 

@@ -1,4 +1,8 @@
-#NPC
+---
+draft: true
+tags:
+  - NPC
+---
 
 - **Who they are:**
 - **Where to find them:**
