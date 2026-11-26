@@ -1,3 +1,19 @@
-@use "./variables.scss" as *;
+ul.section-ul > li.section-li > .section {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  column-gap: 1rem;
+  row-gap: 0.25rem;
+}
 
-// put your custom CSS here!
+ul.section-ul > li.section-li > .section > ul.tags {
+  grid-column: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+ul.section-ul > li.section-li > .section > ul.tags .tag-link {
+  white-space: nowrap;
+}
