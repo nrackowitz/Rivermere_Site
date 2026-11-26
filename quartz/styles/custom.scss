@@ -26,3 +26,14 @@ ul.section-ul > li.section-li > .section > ul.tags > li::after {
 ul.section-ul > li.section-li > .section > ul.tags > li::marker {
   content: "";
 }
+ul.section-ul > li.section-li > .section {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+ul.section-ul > li.section-li > .section > .meta {
+  display: none;
+}
+
+ul.section-ul > li.section-li > .section > ul.tags {
+  grid-column: 1;
+}
