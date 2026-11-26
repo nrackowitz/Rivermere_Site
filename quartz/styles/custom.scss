@@ -17,3 +17,12 @@ ul.section-ul > li.section-li > .section > ul.tags {
 ul.section-ul > li.section-li > .section > ul.tags .tag-link {
   white-space: nowrap;
 }
+ul.section-ul > li.section-li > .section > ul.tags > li::before,
+ul.section-ul > li.section-li > .section > ul.tags > li::after {
+  content: none !important;
+  display: none !important;
+}
+
+ul.section-ul > li.section-li > .section > ul.tags > li::marker {
+  content: "";
+}
